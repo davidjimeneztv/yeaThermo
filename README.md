@@ -22,7 +22,7 @@
 
 1. **Clona este repositorio**
    ```sh
-   git clone https://github.com/tu_usuario/termometro-inteligente.git
+   git clone https://github.com/davidjimeneztv/yeaThermo.git
    ```
 2. **Abre el código en Arduino IDE**.
 3. **Instala los drivers de la placa**: http://arduino.esp8266.com/stable/package_esp8266com_index.json
